@@ -1,0 +1,65 @@
+{"agent":"Grader 1","type":"hello","version":"0.10.0"}
+{"object":{"T":"0000000abc000000000000000000000000000000000000000000000000000000","created":1740224556,"miner":"Bitmunt","nonce":"0000000000000000000000000000000000000000000000000000000001d38904","note":"VRT News 2025-02-02: 2 op de 5 IC-treinen en geen P-treinen: nmbs verwacht maandag grote hinder","previd":null,"txids":[],"type":"block"},"type":"object"}
+{"objectid":"00000003aa05a8b3ec33a789d2a28a8ece1b33141eb23b4d4b5715685d7a8471","type":"getobject"}
+
+{"object":{"T":"0000000abc000000000000000000000000000000000000000000000000000000","created":1743906296,"miner":"Bitmuntmint","nonce":"00000000000000000000000000000000000000000000000000000000096093a6","note":"Strategic people choose distributed secure software","previd":"00000003aa05a8b3ec33a789d2a28a8ece1b33141eb23b4d4b5715685d7a8471","txids":["127e53916bdb36c2b39e3154b5db489f0d1b039ca8519bb10b014bde2d056949"],"type":"block"},"type":"object"}
+{"object":{"height":1,"outputs":[{"pubkey":"a3b319ecf19e9500005c5b5fd569f0b7a4ba1555b993ad80b6d12650501ea20b","value":50000000000000}],"type":"transaction"},"type":"object"}
+{"objectid":"00000003acb5d477c3db684bb4e0c9678deef5c5aee3e56ac791963aa45b3807","type":"getobject"}
+
+
+{"object":{"T":"0000000abc000000000000000000000000000000000000000000000000000000","created":1743907081,"miner":"Bitmuntmint","nonce":"0000000000000000000000000000000000000000000000000000000001ce394d","note":"Strategic people choose distributed secure software","previd":"00000003acb5d477c3db684bb4e0c9678deef5c5aee3e56ac791963aa45b3807","txids":["e2bd59fc45b3d2b5fd19f03a679387686c39e937c43519f01ddc17fdc30b1d9d","986e4defbe07a7a0a0671419ec10774df96d18a669b558ca649ecffa9a1eabc1"],"type":"block"},"type":"object"}
+{"object":{"height":2,"outputs":[{"pubkey":"a3b319ecf19e9500005c5b5fd569f0b7a4ba1555b993ad80b6d12650501ea20b","value":50000000000000}],"type":"transaction"},"type":"object"}
+{"object":{"inputs":[{"outpoint":{"index":0,"txid":"127e53916bdb36c2b39e3154b5db489f0d1b039ca8519bb10b014bde2d056949"},"sig":"a07e81acfe529c5aefd3b908a7ea65356454771d685a354939b475c9ca9c45d27a28fd07525eb434de890f540c13604c4db82355bee4a35e8f216c6be5848f0d"}],"outputs":[{"pubkey":"7cb057a09fb1c0b38b430e3c9deae5607c32665d526ee75724cb0615319a87d7","value":50}],"type":"transaction"},"type":"object"}
+{"objectid":"000000076184873f797400f51b34959138f30d604b5379c8e063a9c8be86831b","type":"getobject"}
+
+{"agent":"Grader 1","type":"hello","version":"0.10.0"}
+{"object":{"T":"0000000abc000000000000000000000000000000000000000000000000000000","created":1743906296,"miner":"Bitmuntmint","nonce":"5fd9c5de46ba7545739a3344f461486834aa0490071206de7f6d646b0a2a22bc","note":"Strategic people choose distributed secure software","previd":"00000003aa05a8b3ec33a789d2a28a8ece1b33141eb23b4d4b5715685d7a8471","txids":["127e53916bdb36c2b39e3154b5db489f0d1b039ca8519bb10b014bde2d056949"],"type":"block"},"type":"object"}
+PASS: Received an INVALID_BLOCK_POW error message. (1 points)
+PASS: Did not gossip an invalid block (1 points)
+
+{"agent":"Grader 1","type":"hello","version":"0.10.0"}
+{"object":{"T":"0f00000000000000000000000000000000000000000000000000000000000000","created":1671355937,"miner":"grader","nonce":"1000000000000000000000000000000000000000000000000000000000000000","note":"Block with incorrect target","previd":"0000000052a0e645eca917ae1c196e0d0a4fb756747f29ef52594d68484bb5e2","txids":[],"type":"block"},"type":"object"}
+PASS: Received an INVALID_FORMAT error message. (1 points)
+
+{"agent":"Grader 1","type":"hello","version":"0.10.0"}
+{"object":{"T":"0000000abc000000000000000000000000000000000000000000000000000000","created":1743982831,"miner":"Bitmuntmint","nonce":"00000000000000000000000000000000000000000000000000000000025b600d","note":"Strategic people choose distributed secure software","previd":"000000076184873f797400f51b34959138f30d604b5379c8e063a9c8be86831b","type":"block"},"type":"object"}
+PASS: Received an INVALID_FORMAT error message. (1 points)
+
+{"agent":"Grader 1","type":"hello","version":"0.10.0"}
+{"object":{"T":"0000000abc000000000000000000000000000000000000000000000000000000","created":1671356958,"miner":"grader","nonce":"00000000000000000000000000000000000000000000000000000000012baaaa","note":"Block with invalid PoW","previd":"0000000052a0e645eca917ae1c196e0d0a4fb756747f29ef52594d68484bb5e2","txids":[],"type":"block"},"type":"object"}
+PASS: Received an INVALID_BLOCK_POW error message. (1 points)
+
+{"agent":"Grader 1","type":"hello","version":"0.10.0"}
+{"object":{"T":"0000000abc000000000000000000000000000000000000000000000000000000","created":1743972583,"miner":"Bitmuntmint","nonce":"0000000000000000000000000000000000000000000000000000000000249e63","note":"Strategic people choose distributed secure software","previd":"000000076184873f797400f51b34959138f30d604b5379c8e063a9c8be86831b","txids":["af167b7f8f7c439a19be8c41eb5807f24c29f11639f7526997b2351c5fb8c29b","fffe6128f8e07904b2f6f343b98c252b1669ca3ec037a69d0d978f2d99938b36"],"type":"block"},"type":"object"}
+{"object":{"height":3,"outputs":[{"pubkey":"a3b319ecf19e9500005c5b5fd569f0b7a4ba1555b993ad80b6d12650501ea20b","value":50000000000000}],"type":"transaction"},"type":"object"}
+{"object":{"inputs":[{"outpoint":{"index":0,"txid":"af167b7f8f7c439a19be8c41eb5807f24c29f11639f7526997b2351c5fb8c29b"},"sig":"61d66880de8e38848f523095e9005cc9d349766302a7c0a5509243f1fc6a7d13bb3fa093712d18e13ff749366d4e5a8f00729b0d9791a912c13031ad54409702"}],"outputs":[{"pubkey":"7cb057a09fb1c0b38b430e3c9deae5607c32665d526ee75724cb0615319a87d7","value":50}],"type":"transaction"},"type":"object"}
+PASS: Received an INVALID_TX_OUTPOINT error message. (1 points)
+
+{"agent":"Grader 1","type":"hello","version":"0.10.0"}
+{"object":{"T":"0000000abc000000000000000000000000000000000000000000000000000000","created":1743976971,"miner":"Bitmuntmint","nonce":"000000000000000000000000000000000000000000000000000000000bb25c1d","note":"Strategic people choose distributed secure software","previd":"000000076184873f797400f51b34959138f30d604b5379c8e063a9c8be86831b","txids":["af167b7f8f7c439a19be8c41eb5807f24c29f11639f7526997b2351c5fb8c29b","744cb03da613d1eb35e208b19e7b858e8bed8023f9d71b77d452956dd135d999"],"type":"block"},"type":"object"}
+{"object":{"inputs":[{"outpoint":{"index":0,"txid":"e2bd59fc45b3d2b5fd19f03a679387686c39e937c43519f01ddc17fdc30b1d9d"},"sig":"3b5e2024401894e86c2b36db6c72c771a2948f7142dfc40f2357981a4e0b2abb8514f24edf4997f5f3c8842a3b74e98bbb086d632b3e112429fc1690a4b3b70c"}],"outputs":[{"pubkey":"7cb057a09fb1c0b38b430e3c9deae5607c32665d526ee75724cb0615319a87d7","value":50000000000011}],"type":"transaction"},"type":"object"}
+FAIL: Did not receive an UNFINDABLE_OBJECT error message in time (0 points)
+
+{"agent":"Grader 1","type":"hello","version":"0.10.0"}
+{"object":{"T":"0000000abc000000000000000000000000000000000000000000000000000000","created":1743979042,"miner":"Bitmuntmint","nonce":"000000000000000000000000000000000000000000000000000000002b6c276f","note":"Strategic people choose distributed secure software","previd":"000000076184873f797400f51b34959138f30d604b5379c8e063a9c8be86831b","txids":["af167b7f8f7c439a19be8c41eb5807f24c29f11639f7526997b2351c5fb8c29b","af167b7f8f7c439a19be8c41eb5807f24c29f11639f7526997b2351c5fb8c29b"],"type":"block"},"type":"object"}
+PASS: Received an INVALID_BLOCK_COINBASE error message. (1 points)
+
+{"agent":"Grader 1","type":"hello","version":"0.10.0"}
+{"object":{"T":"0000000abc000000000000000000000000000000000000000000000000000000","created":1743907081,"miner":"Bitmuntmint","nonce":"0000000000000000000000000000000000000000000000000000000001ce394d","note":"Strategic people choose distributed secure software","previd":"00000003acb5d477c3db684bb4e0c9678deef5c5aee3e56ac791963aa45b3807","txids":["e2bd59fc45b3d2b5fd19f03a679387686c39e937c43519f01ddc17fdc30b1d9d","986e4defbe07a7a0a0671419ec10774df96d18a669b558ca649ecffa9a1eabc1"],"type":"block"},"type":"object"}
+{"objectid":"000000076184873f797400f51b34959138f30d604b5379c8e063a9c8be86831b","type":"getobject"}
+PASS: Received the requested block in time (2 points)
+
+{"object":{"T":"0000000abc000000000000000000000000000000000000000000000000000000","created":1743980971,"miner":"Bitmuntmint","nonce":"000000000000000000000000000000000000000000000000000000001732283f","note":"Strategic people choose distributed secure software","previd":"000000076184873f797400f51b34959138f30d604b5379c8e063a9c8be86831b","txids":["5819d8f611a981cd0f901ab4d8816817312cdc595e36d74ef4e115155685872c","40c3688444c52b4ca868fc73516b1b339683c303d108792c775481a11bda23cc"],"type":"block"},"type":"object"}
+{"object":{"inputs":[{"outpoint":{"index":0,"txid":"e2bd59fc45b3d2b5fd19f03a679387686c39e937c43519f01ddc17fdc30b1d9d"},"sig":"a69ffbc7320d382766dbda885014221aa7ada3c614c7453e886f448bc556eb2c674a89601fe1695027c3bc2a03630123d81d6de4b026c86c474de441656a8700"}],"outputs":[{"pubkey":"7cb057a09fb1c0b38b430e3c9deae5607c32665d526ee75724cb0615319a87d7","value":500000000000}],"type":"transaction"},"type":"object"}
+{"object":{"inputs":[{"outpoint":{"index":0,"txid":"e2bd59fc45b3d2b5fd19f03a679387686c39e937c43519f01ddc17fdc30b1d9d"},"sig":"1f2dd59d41e702ead753bcf330cdde19e306c47ce4728b6afe0fad6359535450eda6215338ec0d1a0fae6b04001bf6cb625c7befccd09c7e82e993d6f111c60c"}],"outputs":[{"pubkey":"8cb057a09fb1c0b38b430e3c9deae5607c32665d526ee75724cb0615319a87d7","value":500000000000}],"type":"transaction"},"type":"object"}
+PASS: Received an INVALID_TX_OUTPOINT error message. (1 points)
+
+{"agent":"Grader 1","type":"hello","version":"0.10.0"}
+{"object":{"height":1,"outputs":[{"pubkey":"4f0caa7ddba8f079e54750ac3163f945e23236b029c8373276a8cc2a1b4f0db1","value":50000000000000}],"type":"transaction"},"type":"object"}
+{"objectid":"eded81b3b81e4e9baae21d7010ea74c9853b676a5f8964aa7c24c87467559060","type":"getobject"}
+PASS: Received the requested block in time (2 points)
+
+
+{"object":{"T":"0000000abc000000000000000000000000000000000000000000000000000000","created":1743986036,"miner":"Bitmuntmint","nonce":"00000000000000000000000000000000000000000000000000000000004073ea","note":"Strategic people choose distributed secure software","previd":"000000076184873f797400f51b34959138f30d604b5379c8e063a9c8be86831b","txids":["711a1f24625b5696cae84b984caf55d7ea19c0afdee83db0b6ce9486c70e2d72"],"type":"block"},"type":"object"}
+{"object":{"inputs":[{"outpoint":{"index":0,"txid":"eded81b3b81e4e9baae21d7010ea74c9853b676a5f8964aa7c24c87467559060"},"sig":"287673f13808dddebdfaad1bf0cde6dedd9c46e8452bfbf34c85376122dc2b2676c4722f4effbe2c7ce2034b67f44520c288749d0d64e9eda6e066033c5e070c"}],"outputs":[{"pubkey":"7cb057a09fb1c0b38b430e3c9deae5607c32665d526ee75724cb0615319a87d7","value":88888888}],"type":"transaction"},"type":"object"}
+PASS: Received an INVALID_TX_OUTPOINT error message. (1 points)

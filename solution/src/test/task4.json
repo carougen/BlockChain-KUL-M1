@@ -1,0 +1,34 @@
+Sending message: 
+{"agent":"Grader 1","type":"hello","version":"0.10.0"}
+Sending message: 
+{"object":{"T":"0000000abc000000000000000000000000000000000000000000000000000000","created":1745995229,"miner":"Bitmuntmint","nonce":"0000000000000000000000000000000000000000000000000000000019515c3d","note":"Strategic people choose distributed secure software","previd":"000000005cf053631b60890498a78f9af2d22eca02326ce4ee5cfdfbfa2f3f20","txids":[],"type":"block"},"type":"object"}
+
+Grader received message: 
+{"agent":"BitMuntNodeB1","type":"hello","version":"0.10.1"}
+Grader received message: 
+{"type":"getpeers"}
+Grader received message: 
+{"type":"getchaintip"}
+Grader received message: 
+{"objectid":"000000005cf053631b60890498a78f9af2d22eca02326ce4ee5cfdfbfa2f3f20","type":"getobject"}
+
+Sending message: 
+{"object":{"T":"0000000abc000000000000000000000000000000000000000000000000000000","created":1745994508,"miner":"Bitmuntmint","nonce":"0000000000000000000000000000000000000000000000000000000022b1d143","note":"Strategic people choose distributed secure software","previd":"00000006ea8a4d9f6a28af7f955709e2969c063d274bd9c7272dbaca3192e8be","txids":[],"type":"block"},"type":"object"}
+
+Grader received message: {"objectid":"00000006ea8a4d9f6a28af7f955709e2969c063d274bd9c7272dbaca3192e8be","type":"getobject"}
+
+Sending message: 
+{"object":{"T":"0000000abc000000000000000000000000000000000000000000000000000000","created":1745994358,"miner":"Bitmuntmint","nonce":"0000000000000000000000000000000000000000000000000000000008d8b765","note":"Strategic people choose distributed secure software","previd":"00000003aa05a8b3ec33a789d2a28a8ece1b33141eb23b4d4b5715685d7a8471","txids":[],"type":"block"},"type":"object"}
+
+Grader received message: {"objectid":"00000003aa05a8b3ec33a789d2a28a8ece1b33141eb23b4d4b5715685d7a8471","type":"getobject"}
+
+Sending message: 
+{"objectid":"00000005c1acd2d50e6c71c7426466eb52cdba8e8895b7d8a62ffa3ea4cf13ab","type":"getobject"}
+
+Grader received message: {"msg":"Invalid block received.","name":"UNFINDABLE_OBJECT","type":"error"}
+
+
+{"object":{"T":"0000000abc000000000000000000000000000000000000000000000000000000","created":1745995229,"miner":"Bitmuntmint","nonce":"0000000000000000000000000000000000000000000000000000000019515c3d","note":"Strategic people choose distributed secure software","previd":"000000005cf053631b60890498a78f9af2d22eca02326ce4ee5cfdfbfa2f3f20","txids":[],"type":"block"},"type":"object"}
+{"object":{"T":"0000000abc000000000000000000000000000000000000000000000000000000","created":1745994508,"miner":"Bitmuntmint","nonce":"0000000000000000000000000000000000000000000000000000000022b1d143","note":"Strategic people choose distributed secure software","previd":"00000006ea8a4d9f6a28af7f955709e2969c063d274bd9c7272dbaca3192e8be","txids":[],"type":"block"},"type":"object"}
+{"object":{"T":"0000000abc000000000000000000000000000000000000000000000000000000","created":1745994358,"miner":"Bitmuntmint","nonce":"0000000000000000000000000000000000000000000000000000000008d8b765","note":"Strategic people choose distributed secure software","previd":"00000003aa05a8b3ec33a789d2a28a8ece1b33141eb23b4d4b5715685d7a8471","txids":[],"type":"block"},"type":"object"}
+{"objectid":"00000005c1acd2d50e6c71c7426466eb52cdba8e8895b7d8a62ffa3ea4cf13ab","type":"getobject"}

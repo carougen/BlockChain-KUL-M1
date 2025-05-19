@@ -1,0 +1,7 @@
+export const PUBLIC_KEY_DEST =
+  "7cb057a09fb1c0b38b430e3c9deae5607c32665d526ee75724cb0615319a87d7";
+export const PUBLIC_KEY_HEX =
+  "de7f284cec5aeaf68f9fe48c98dec7a37b87b384f8d4b670eaa7ca68ce13435c";
+export const PRIVATE_KEY_HEX =
+  "16f23feaf494ae83271f9fa0ebe11e47be3b1642ad17825a3d6460b425905c54" +
+  "de7f284cec5aeaf68f9fe48c98dec7a37b87b384f8d4b670eaa7ca68ce13435c";

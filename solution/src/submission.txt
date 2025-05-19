@@ -1,0 +1,8 @@
+Coinbase tx : 3d91447e348348e411e018f4b17a6e012c84193ecb72b49df0a87c6efadec672
+Mined block : 000000086f8a35ca18eb9acf56a45ea17bba7395f5f0f068ccce14593dc7f220
+Sent tx : 5dd27d790a49ab7362d48dbf9a4ca56e3578355890946e1225be15b323648f7b
+Block mined with the tx : 000000017b7827a83ce8ae942837d3869ce0e80eb563394419b0ef582681bb13
+
+One thing we should change is how we handle the timer. If it's too short, we can't get the full chain when connecting to a node.
+
+Just a quick note: We used GenAI to help us understand the code and the project, and it also helped with the development.

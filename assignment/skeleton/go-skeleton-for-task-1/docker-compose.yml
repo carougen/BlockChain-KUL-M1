@@ -1,0 +1,12 @@
+version: "3.3"
+services:
+  go-app:
+    build:
+      dockerfile: Dockerfile
+      context: .
+    restart: always
+    ports:
+      - "18018:18018"
+    container_name: bitmunt-go
+    image: go-app
+    command: ["go", "run", "main.go"]

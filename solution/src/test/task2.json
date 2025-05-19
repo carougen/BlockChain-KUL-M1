@@ -1,0 +1,17 @@
+{"agent":"Grader 1","type":"hello","version":"0.10.0"}
+
+{"objectid":"4f9863b9d7060d88bbe808946ff507e799215fbe2d3974620231dcba49544f51","type":"ihaveobject"}
+{"object":{"height":0,"outputs":[{"pubkey":"6615704f2d8384b68879a2d3936f4233792d219fc7c100244e5751d3723400ef","value":50000000000}],"type":"transaction"},"type":"object"}
+{"objectid":"4f9863b9d7060d88bbe808946ff507e799215fbe2d3974620231dcba49544f51","type":"getobject"}
+
+{"objectid":"528c5bdfd4f2bcea13481b5aab77ce4009edac8f3cdb7daf29ef24ce9d6935fa","type":"ihaveobject"}
+{"object":{"inputs":[{"outpoint":{"index":0,"txid":"4f9863b9d7060d88bbe808946ff507e799215fbe2d3974620231dcba49544f51"},"sig":"ada5b0257267af51e834fb2f4c0b1cfd5adba0facb26c595297ef5446fe9388a8ca58594e99fc9eaed7b82a59f5045d767d59b44551b85a475646f6c1478120e"}],"outputs":[{"pubkey":"6615704f2d8384b68879a2d3936f4233792d219fc7c100244e5751d3723400ef","value":10}],"type":"transaction"},"type":"object"}
+
+{"objectid":"d0a9587182f83d3dc18c96d181e83ca8c7fc5a6ba59e077e428b9c84d9415eb4","type":"ihaveobject"}
+
+{"object":{"inputs":[{"outpoint":{"index":0,"txid":"528c5bdfd4f2bcea13481b5aab77ce4009edac8f3cdb7daf29ef24ce9d6935fa"},"sig":"e1bc9a2e1bdf93df67c5aed9f4f785bd02ebff2710da41ad1a62658b52f1da199d18045feb2b23a3faad847e0d7686674065a87a826e396cb1507f85bce77009"}],"outputs":[{"pubkey":"6615704f2d8384b68879a2d3936f4233792d219fc7c100244e5751d3723400ef"}],"type":"transaction"},"type":"object"}
+{"object":{"inputs":[{"outpoint":{"index":1,"txid":"528c5bdfd4f2bcea13481b5aab77ce4009edac8f3cdb7daf29ef24ce9d6935fa"},"sig":"ade530e2fe5955d4a83a93314ba949dfa5f9e07ee402e80e2071b8808f3d59f004d6cfebd07239a2e6df2af21edb33df581a14ea45fa3c9b9314f03496788508"}],"outputs":[{"pubkey":"6615704f2d8384b68879a2d3936f4233792d219fc7c100244e5751d3723400ef","value":10}],"type":"transaction"},"type":"object"}
+{"object":{"inputs":[{"outpoint":{"index":0,"txid":"4f9863b9d7060d88bbe808946ff507e799215fbe2d3974620231dcba49544f51"},"sig":"1c3219306ab8e959f88add0368bfedcd85aa263c23ff04edce3b947efc32401f0b14b917820ad79960b4415c5f2c065a2cf9a1fd47677d4ee6cdb3239afe5706"},{"outpoint":{"index":0,"txid":"528c5bdfd4f2bcea13481b5aab77ce4009edac8f3cdb7daf29ef24ce9d6935fa"},"sig":"1c3219306ab8e959f88add0368bfedcd85aa263c23ff04edce3b947efc32401f0b14b917820ad79960b4415c5f2c065a2cf9a1fd47677d4ee6cdb3239afe5706"}],"outputs":[{"pubkey":"6615704f2d8384b68879a2d3936f4233792d219fc7c100244e5751d3723400ef","value":5000000000011}],"type":"transaction"},"type":"object"}
+{"object":{"inputs":[{"outpoint":{"index":0,"txid":"528c5bdfd4f2bcea13481b5aab77ce4009edac8f3cdb7daf29ef24ce9d6935fa"},"sig":"ade530e2fe5955d4a83a93314ba949dfa5f9e07ee402e80e2071b8808f3d59f004d6cfebd07239a2e6df2af21edb33df581a14ea45fa3c9b9314f03496788508"}],"outputs":[{"pubkey":"6615704f2d8384b68879a2d3936f4233792d219fc7c100244e5751d3723400ef","value":10}],"type":"transaction"},"type":"object"}
+{"object":{"inputs":[{"outpoint":{"index":0,"txid":"528c5bdfd4f2bcea13481b5aab77ce4009edac8f3cdb7daf29ef24ce9d6935fa"},"sig":"f4ea233a8efd81fadf5284e9d1dfd5f61d41a1c58c1ec170ff1b51c31d3b2feae394d0d2f6912a910a705e91d466729195aadced3db878eda3532f852545a807"}],"outputs":[{"pubkey":"6615704f2d8384b68879a2d3936f4233792d219fc7c100244e5751d3723400ef","value":-10}],"type":"transaction"},"type":"object"}
+

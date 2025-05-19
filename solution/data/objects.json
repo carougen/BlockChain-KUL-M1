@@ -1,0 +1,12 @@
+{
+  "00000003aa05a8b3ec33a789d2a28a8ece1b33141eb23b4d4b5715685d7a8471": {
+    "T": "0000000abc000000000000000000000000000000000000000000000000000000",
+    "created": 1740224556,
+    "miner": "Bitmunt",
+    "nonce": "0000000000000000000000000000000000000000000000000000000001d38904",
+    "note": "VRT News 2025-02-02: 2 op de 5 IC-treinen en geen P-treinen: nmbs verwacht maandag grote hinder",
+    "previd": null,
+    "txids": [],
+    "type": "block"
+  }
+}
